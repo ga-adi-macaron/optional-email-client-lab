@@ -58,3 +58,9 @@ A pull request with your app that meets the above requirements. Here are a few s
 #### Resources
 
 * [Google's Gmail API - https://developers.google.com/gmail/api](https://developers.google.com/gmail/api/)
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
